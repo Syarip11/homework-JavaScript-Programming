@@ -1,0 +1,23 @@
+{
+  "name": "homework-JavaScript-Programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syarip11/homework-JavaScript-Programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syarip11/homework-JavaScript-Programming/issues"
+  },
+  "homepage": "https://github.com/Syarip11/homework-JavaScript-Programming#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
